@@ -36,5 +36,8 @@ To determine the run time of the VBA code, the run time was taken at three multi
 
 ![Elapse time for 2018 second run](https://github.com/wahib453/stock-analysis2/blob/ca61178c23c1e37bfdb0facea46559f4eb15ae6f/Resources/Performance%20Time%20for%202018%20stocks%20analysis%20with%20the%20tableRUN2.PNG)
 
+Taking the average of these results -- one for each year -- 2017 and 2018 - it shows that refactoring an exisitng vba code reduces the elapse time and increase the efficiency of the code. The image below is a summary of the averages taking for 2017 and 2018.
 
-![]()
+![Stocks analysis average results for 2017 and 2018](https://github.com/wahib453/stock-analysis2/blob/mod2br/Resources/Stocks%20analysis%20average%20result.png)
+
+## ## Summary
