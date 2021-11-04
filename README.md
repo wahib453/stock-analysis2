@@ -20,4 +20,8 @@ To determine the run time of the VBA code, the run time was taken at three multi
 
 ### ###Elapse Time before refactoring
 
-![Elapse time for 2017 first run](stock-analysis2/Resources/Previous Performance Time for 2017 stocks analysis with the table.PNG)
+![Elapse time for 2017 first run](https://github.com/wahib453/stock-analysis2/blob/ca61178c23c1e37bfdb0facea46559f4eb15ae6f/Resources/Previous%20Performance%20Time%20for%202017%20stocks%20analysis%20with%20the%20table.PNG)
+
+![Elapse time for 2017 second run](https://github.com/wahib453/stock-analysis2/blob/ca61178c23c1e37bfdb0facea46559f4eb15ae6f/Resources/Previous%20Performance%20Time%20for%202017%20stocks%20analysis%20with%20the%20table%20RUN2.PNG)
+
+![Elapse time for 2017 third run](https://github.com/wahib453/stock-analysis2/blob/ca61178c23c1e37bfdb0facea46559f4eb15ae6f/Resources/Previous%20Performance%20Time%20for%202017%20stocks%20analysis%20with%20the%20table%20RUN3.PNG)
