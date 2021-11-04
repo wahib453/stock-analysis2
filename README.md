@@ -12,4 +12,4 @@ To determine the run time of the VBA code, the run time was taken at three multi
 
 # ### Elapse Time before refactoring
 
-![Elapse time for 2017 Second run]("/stock-analysis2/Resources/Previous Performance Time for 2017 stocks analysis with the table RUN2.PNG")
+![Elapse time for 2017 Second run]("/../stock-analysis2/Resources/Previous Performance Time for 2017 stocks analysis with the table RUN2.PNG")
