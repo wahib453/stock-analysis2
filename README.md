@@ -57,4 +57,4 @@ Taking the average of these results -- one for each year -- 2017 and 2018 - it s
 
    1. Expensive
    2. consumes time
-2. The main advantage of refactoring code is to reduce the elapse time and increase the efficiency of the code. As can be seeing from the above table, it took the code less time to output the same result as the original code. This point out an important point that a code can be written in more than one way.
+2. How do these pros and cons apply to refactoring the original VBA? one advantage of refactoring a code as mention above is that it  reduces the complexity of the code. Refactoring the original vba code makes it easier to understand. Hence making the code run faster. On the other hand, refactoring can be time consuming. For example, deciding on what goes into a nested loop or outside.
