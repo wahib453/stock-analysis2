@@ -41,3 +41,20 @@ Taking the average of these results -- one for each year -- 2017 and 2018 - it s
 ![Stocks analysis average results for 2017 and 2018](https://github.com/wahib453/stock-analysis2/blob/mod2br/Resources/Stocks%20analysis%20average%20result.png)
 
 ## ## Summary
+
+1. What are the advantages or disadvantages of refactoring code?
+   [According to this link](https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software), the following are advantages and disadvantages of refactoring in terms of software development.
+
+   #### Advantages
+
+
+   1. Refactoring identify bugs
+   2. Makes a program run faster
+   3. Reduces the complexity of a code.
+   4. Improves the design of a software
+
+   #### Disadvantages
+
+   1. Expensive
+   2. consumes time
+2. The main advantage of refactoring code is to reduce the elapse time and increase the efficiency of the code. As can be seeing from the above table, it took the code less time to output the same result as the original code. This point out an important point that a code can be written in more than one way.
